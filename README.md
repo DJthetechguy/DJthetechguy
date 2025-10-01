@@ -1,4 +1,4 @@
-<h1>Hi, I'm Deejay, an <a href="https://linkedin.com/in/delvert-snyder-ba6256162">IT Professional</a>☺</h1>
+<h1>Hi, I'm Delvert, an <a href="https://linkedin.com/in/delvert-snyder-ba6256162">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
